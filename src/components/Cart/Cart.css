@@ -1,0 +1,21 @@
+.cart {
+    margin: auto;
+}
+
+.cart button {
+    width: 232px;
+    height: 48px;
+    flex-shrink: 0;
+    border: none;
+    border-radius: 4px;
+    background: #FF3030;
+    color: #FFF;
+    /* Body 1 */
+    font-family: Lato;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.085px;
+    cursor: pointer;
+}
